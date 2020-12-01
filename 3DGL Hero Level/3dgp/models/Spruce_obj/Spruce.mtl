@@ -1,0 +1,20 @@
+# Material file for Spruce.obj
+
+newmtl SpruceBranch
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd Spruce branches.png
+
+newmtl SpruceTrunk
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd Spruce trunk.jpeg
+
